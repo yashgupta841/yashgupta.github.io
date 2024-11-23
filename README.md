@@ -1,2 +1,6 @@
 # yashgupta.github.io
-yash...
+
+## PROJECT 1
+|---|
+|GIT URL|
+ (https://yashgupta841.github.io/simple-calculator/) 
